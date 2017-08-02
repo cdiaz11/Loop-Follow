@@ -521,7 +521,7 @@
 					"$(inherited)",
 					"$(PROJECT_DIR)",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.komby.Loop.Follow;
+				PRODUCT_BUNDLE_IDENTIFIER = com.tk421;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "bb123acd-4a35-4a8a-8401-db0824e93e36";
 				PROVISIONING_PROFILE_SPECIFIER = "Loop Follow Push";
@@ -551,7 +551,7 @@
 					"$(inherited)",
 					"$(PROJECT_DIR)",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.komby.Loop.Follow;
+				PRODUCT_BUNDLE_IDENTIFIER = com.tk421;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "bb123acd-4a35-4a8a-8401-db0824e93e36";
 				PROVISIONING_PROFILE_SPECIFIER = "Loop Follow Push";
