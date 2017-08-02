@@ -260,7 +260,7 @@
 				TargetAttributes = {
 					820EEBE11D90A9E20067EAC7 = {
 						CreatedOnToolsVersion = 8.0;
-						DevelopmentTeam = 8QU4PEB592;
+						DevelopmentTeam = 3F8BSW7CCD;
 						LastSwiftMigration = 0820;
 						ProvisioningStyle = Manual;
 						SystemCapabilities = {
@@ -508,7 +508,7 @@
 				CODE_SIGN_ENTITLEMENTS = "Loop Follow/Loop Follow.entitlements";
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
-				DEVELOPMENT_TEAM = 8QU4PEB592;
+				DEVELOPMENT_TEAM = 3F8BSW7CCD;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(SDKROOT)/Library/System/Frameworks",
 					"$(PROJECT_DIR)",
@@ -523,8 +523,8 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.tk421;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "bb123acd-4a35-4a8a-8401-db0824e93e36";
-				PROVISIONING_PROFILE_SPECIFIER = "Loop Follow Push";
+				PROVISIONING_PROFILE = "4ac49546-be56-4255-b257-7e1fc8dab308";
+				PROVISIONING_PROFILE_SPECIFIER = "Loop Follow";
 				"SWIFT_OBJC_BRIDGING_HEADER[arch=*]" = "$(PROJECT_DIR)/Loop Follow/Azure Mobile Services.h";
 				SWIFT_VERSION = 3.0;
 				TARGETED_DEVICE_FAMILY = 1;
@@ -537,7 +537,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_ENTITLEMENTS = "Loop Follow/Loop Follow.entitlements";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
-				DEVELOPMENT_TEAM = 8QU4PEB592;
+				DEVELOPMENT_TEAM = 3F8BSW7CCD;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(SDKROOT)/Library/System/Frameworks",
 					"$(PROJECT_DIR)",
@@ -553,8 +553,8 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.tk421;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "bb123acd-4a35-4a8a-8401-db0824e93e36";
-				PROVISIONING_PROFILE_SPECIFIER = "Loop Follow Push";
+				PROVISIONING_PROFILE = "4ac49546-be56-4255-b257-7e1fc8dab308";
+				PROVISIONING_PROFILE_SPECIFIER = "Loop Follow";
 				"SWIFT_OBJC_BRIDGING_HEADER[arch=*]" = "$(PROJECT_DIR)/Follow App/Azure Mobile Services.h";
 				SWIFT_VERSION = 3.0;
 				TARGETED_DEVICE_FAMILY = 1;
